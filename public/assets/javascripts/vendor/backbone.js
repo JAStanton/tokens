@@ -1,3 +1,5 @@
+//= include ./underscore.js
+
 //     Backbone.js 0.9.2
 
 //     (c) 2010-2012 Jeremy Ashkenas, DocumentCloud Inc.
