@@ -1,5 +1,5 @@
-
-db = require '../common/db.js'
+require("coffee-script")
+db = require '../common/db'
 
 exports.new = (req, res) ->
   data = req.body

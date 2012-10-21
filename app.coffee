@@ -1,10 +1,10 @@
 console.log "Initializing: #{new Date}"
-
+require("coffee-script")
 routes   = require './routes'
 mysql    = require 'mysql'
 express  = require 'express'
-db       = require './common/db.js'
-user     = require './models/user.js'
+db       = require './common/db'
+user     = require './models/user'
 http     = require 'http'
 Mincer   = require 'mincer'
 
