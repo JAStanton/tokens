@@ -3,10 +3,9 @@
   , "version": "0.0.1"
   , "author": "Jonathan Stanton <jonathan@jastanton.com>"
   , "dependencies":
-    {   "mincer": ""
+    {   "mincer": "0.3.1"
       , "mysql": "0.9.6"
       , "express": "3.0.X"
-      , "nodemon": "0.6.23"
       , "jade": "0.27.6"
       , "stylus": "0.30.1"
       , "coffee-script": "1.3.3"
